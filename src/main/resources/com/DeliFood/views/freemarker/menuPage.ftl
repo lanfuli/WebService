@@ -20,7 +20,7 @@
     <nav>
         <div class="row">
             <img src="/assets/css/img/sign/deliSign.png" alt="DeliFood Logo" class="logo">
-            <a class="deliWord">DeliFood </a>
+            <a href="/Restaurant" class="deliWord">DeliFood </a>
         </div>
     </nav>
 </header>
