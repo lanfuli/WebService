@@ -38,8 +38,6 @@
 
         <h2> Check Your Order State </h2>
         <div class="customerInfo-box" style="float: left; width: 65%">
-            Welcome <?php echo $_GET["name"]; ?><br>
-            Your email address is: <?php echo $_GET["email"]; ?>
 
 
 
@@ -53,12 +51,12 @@
             echo $_GET['comment'];
             ?>
 
-            <!--<h3> Customer's Name </h3>-->
+            <h3> Customer's Name </h3>
 
-            <!--<p class="Customer_address"> 11745 NE 8th St Bellevue, WA 98005</p>-->
+            <p class="Customer_address"> 13623 NE 5th St Bellevue, WA 98005</p>
 
-            <!--<p class="instruction-head"> Additional Instruction: </p>-->
-            <!--<p class="instruction-body"> call me when you arrive at the address, phone number: 4256478989 </p>-->
+            <p class="instruction-head"> Additional Instruction: </p>
+            <p class="instruction-body"> call me when you arrive at the address, phone number: 4256478989 </p>
 
         </div>
 
@@ -173,25 +171,21 @@
                 <th>Price</th>
             </tr>
             <tr>
-                <td>Chicken Wings </td>
+                <td>Tropical Mango Smoothie </td>
                 <td>1</td>
-                <td>$10.00</td>
+                <td>$ 2.29</td>
             </tr>
             <tr>
-                <td>Cheesse Burger</td>
-                <td>2</td>
-                <td>$24.00</td>
+                <td>Smooth Roast Decaf Coffee</td>
+                <td>1</td>
+                <td>$ 2.29</td>
             </tr>
             <tr>
-                <td>Onion RIngs</td>
+                <td>Smooth Roast Decaf Coffee</td>
                 <td>1</td>
-                <td>$5.00</td>
+                <td>$ 2.29</td>
             </tr>
-            <tr>
-                <td>Crispy Chicken</td>
-                <td>1</td>
-                <td>$8.00</td>
-            </tr>
+
         </table>
 
 

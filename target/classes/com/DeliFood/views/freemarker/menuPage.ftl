@@ -19,7 +19,7 @@
 <header>
     <nav>
         <div class="row">
-            <img src="assets/css/img/sign/deliSign.png" alt="DeliFood Logo" class="logo">
+            <img src="/assets/css/img/sign/deliSign.png" alt="DeliFood Logo" class="logo">
             <a class="deliWord">DeliFood </a>
         </div>
     </nav>
@@ -33,7 +33,7 @@
 
     <div class="row">
         <div class="col span-0.5-of-3 box">
-            <img src="assets/css/img/restaurantPage/burgerKingLogo.jpeg" alt="restaurant Logo"
+            <img src="/assets/css/img/restaurantPage/Burger King.png" alt="restaurant Logo"
                  class="restaurant_Logo">
         </div>
 

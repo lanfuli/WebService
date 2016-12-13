@@ -159,7 +159,7 @@
             </div>
             <div class="row">
                 <div class="col span-1-of-3 box">
-                    <p>Apple Juice</p>
+                    <p>Smooth Roast Decaf Coffee</p>
                 </div>
 
                 <div class="col span-1-of-3 box">
@@ -167,13 +167,13 @@
                 </div>
 
                 <div class="col span-1-of-3 box">
-                    <p>$5.00</p>
+                    <p>$2.29</p>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col span-1-of-3 box">
-                    <p>Burger</p>
+                    <p>Tropical Mango Smoothie</p>
                 </div>
 
                 <div class="col span-1-of-3 box">
@@ -181,13 +181,13 @@
                 </div>
 
                 <div class="col span-1-of-3 box">
-                    <p>$8.00</p>
+                    <p>$2.29</p>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col span-1-of-3 box">
-                    <p>Burger</p>
+                    <p>Smooth Roast Decaf Coffee</p>
                 </div>
 
                 <div class="col span-1-of-3 box">
@@ -195,20 +195,7 @@
                 </div>
 
                 <div class="col span-1-of-3 box">
-                    <p>$8.00</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col span-1-of-3 box">
-                    <p>Burger</p>
-                </div>
-
-                <div class="col span-1-of-3 box">
-                    <p>1</p>
-                </div>
-
-                <div class="col span-1-of-3 box">
-                    <p>$8.00</p>
+                    <p>$2.29</p>
                 </div>
             </div>
         </div>
@@ -219,7 +206,7 @@
                 </div>
 
                 <div class="col span-1-of-2 box">
-                    <p class="subtotalprice">$29.00</p>
+                    <p class="subtotalprice">$6.87</p>
                 </div>
             </div>
 
@@ -229,7 +216,7 @@
                 </div>
 
                 <div class="col span-1-of-2 box">
-                    <p class="taxAmount">$1.45</p>
+                    <p class="taxAmount">$0.65</p>
                 </div>
             </div>
 
@@ -246,7 +233,7 @@
                 </div>
 
                 <div class="col span-1-of-2 box">
-                    <p class="totalPrice">$30.45 </p>
+                    <p class="totalPrice">$7.52 </p>
 
                 </div>
             </div>

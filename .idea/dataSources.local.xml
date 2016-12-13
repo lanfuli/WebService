@@ -2,31 +2,16 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="PostgreSQL - webdeli@localhost" uuid="1d996a07-d632-49a0-beba-ada5496cd297">
-      <database-info product="PostgreSQL" version="9.6.1" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>postgres</user-name>
-      <resolve-scope>webdeli:public</resolve-scope>
     </data-source>
     <data-source name="webdeli@localhost" uuid="477124cd-2496-4545-8978-c0094122a73f">
-      <database-info product="PostgreSQL" version="9.6.1" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>postgres</user-name>
-      <resolve-scope>webdeli:postgres,public</resolve-scope>
     </data-source>
     <data-source name="resources:hibernate.cfg.xml/Hibernate" uuid="52dda5aa-0740-495a-b9a8-4cc7075cb3f1">
-      <database-info product="PostgreSQL" version="9.6.1" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>postgres</user-name>
-      <resolve-scope>webdeli:postgres,public</resolve-scope>
     </data-source>
   </component>
 </project>
